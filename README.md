@@ -29,8 +29,10 @@ This website is built using the following technologies:
 
 ## <a name="features">🔋 Features</a>
 
-- **Dynamic Color Switcher**: Allows users to switch between multiple color themes to personalize their browsing experience.
-- **Dark Mode Integration**: A toggle for switching between light and dark modes, providing a comfortable viewing option for all environments.
+- **Beautiful Placeholder for Form**: Eye-catching and thoughtfully designed placeholders in the contact form that enhance readability and guide users smoothly through the form submission process.
+- **Infinite Scroll on Testimonials**: A continuous, auto-scrolling testimonials section that showcases feedback from clients or collaborators without the need for manual navigation.
+- **Projects Filter Feature**: An interactive filtering system that allows users to sort and view projects based on categories, skills, or technology, making it easy to navigate through the portfolio.
+- **Dynamic "My Experience" Section**: A visually engaging and dynamic timeline that updates automatically with career milestones, showcasing your professional journey in a compelling way.
 - **Smooth Page Transitions**: Fluid, seamless transitions between pages and sections for a more immersive browsing experience.
 - **Ripple Effect on Buttons**: Interactive ripple effect on buttons, enhancing user interaction with engaging visual feedback.
 - **Contact Form with Netlify Submission**: A fully functional and responsive contact form integrated with Netlify for easy and reliable form submissions.
