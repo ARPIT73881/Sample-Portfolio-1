@@ -17,7 +17,9 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-I'm excited to present my portfolio, built using HTML, CSS, and JavaScript, which reflects both my skills and passion for web development. This website is designed to provide an engaging and user-friendly experience, packed with features that enhance usability and aesthetics.
+I'm excited to present my portfolio, built using HTML, CSS, and JavaScript, which reflects both my skills and passion for web development.
+
+This website is designed to provide an engaging and user-friendly experience, packed with features that enhance usability and aesthetics.
 
 ## <a name="techstack">⚙️ Tech Stack</a>
 
@@ -30,13 +32,21 @@ This website is built using the following technologies:
 ## <a name="features">🔋 Features</a>
 
 - **Beautiful Placeholder for Form**: Eye-catching and thoughtfully designed placeholders in the contact form that enhance readability and guide users smoothly through the form submission process.
+
 - **Infinite Scroll on Testimonials**: A continuous, auto-scrolling testimonials section that showcases feedback from clients or collaborators without the need for manual navigation.
+
 - **Projects Filter Feature**: An interactive filtering system that allows users to sort and view projects based on categories, skills, or technology, making it easy to navigate through the portfolio.
+
 - **Dynamic "My Experience" Section**: A visually engaging and dynamic timeline that updates automatically with career milestones, showcasing your professional journey in a compelling way.
+
 - **Smooth Page Transitions**: Fluid, seamless transitions between pages and sections for a more immersive browsing experience.
+
 - **Ripple Effect on Buttons**: Interactive ripple effect on buttons, enhancing user interaction with engaging visual feedback.
+
 - **Contact Form with Netlify Submission**: A fully functional and responsive contact form integrated with Netlify for easy and reliable form submissions.
+
 - **Responsive Design**: Optimized for all devices, ensuring the website looks great and functions smoothly on mobile, tablet, and desktop screens.
+
 - **Additional Subtle Interactions**: Includes various small animations and effects that contribute to a refined and enjoyable user experience.
 
 ## <a name="contribute"> 🚀 Contributing</a>
