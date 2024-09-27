@@ -56,6 +56,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## 🫡 Credits
+## <a name="credits"> 🫡 Credits</a>
 
 This portfolio was inspired by the work of [Cryptical Coder](https://www.youtube.com/@CrypticalCoder). Their creativity and innovation motivated me to build my own version.
